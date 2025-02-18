@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE html>        /* Basic Reset & Font */
+<html lang="en">        
 <head>
   <meta charset="UTF-8" />
   <title>Carbon Footprint Offset</title>
