@@ -5,6 +5,9 @@
   <title>Carbon Footprint Offset</title>
   <style>
     /* Basic Reset & Font */
+    /* Basic Reset & Font */
+    /* Basic Reset & Font */
+    /* Basic Reset & Font */
     * {
       margin: 0;
       padding: 0;
@@ -307,8 +310,10 @@
         </div>
       </div>
     </section>
+    <!-- MONTHLY REPORT SECTION -->
 <!-- MONTHLY REPORT SECTION -->
     <!-- MONTHLY REPORT SECTION -->
+      <!-- MONTHLY REPORT SECTION -->
     <section class="report-section">
       <h2>Get Your Monthly Carbon Report</h2>
       <p>Sign up to receive a detailed monthly breakdown of your carbon footprint and progress.</p>
